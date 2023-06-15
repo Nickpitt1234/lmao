@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".lastActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="45dp" />
+
+    <Button
+        android:id="@+id/prox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Proximo..."
+        tools:layout_editor_absoluteX="255dp"
+        tools:layout_editor_absoluteY="600dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ryan Thomas Gosling é um ator, músico, produtor e diretor de cinema canadense. Ele começou sua carreira como um ator mirim no programa da Disney Channel, Clube do Mickey, e passou a aparecer em outros programas de entretenimento familiar, incluindo as séries de terror infantil Você Tem Medo do Escuro? e Goosebumps
+Park Ji-min OMC, mais frequentemente creditado na carreira musical apenas como Jimin, é um cantor e dançarino sul-coreano. Jimin ganhou destaque mundial como membro do grupo masculino BTS, formado em 2013.
+William James Murray é um ator e humorista americano. Tornou-se conhecido por integrar o elenco do programa de televisão Saturday Night Live, eventualmente estrelando diversos filmes aclamados pela crítica e o público, como Caddyshack, Ghostbusters e Groundhog Day
+    A palavra palhaço deriva do italiano paglia, que quer dizer palha, que era o material usado no revestimento de colchões. O nome começou a ser usado porque a primitiva roupa desse cômico era feita do mesmo pano e revestimento dos colchões: um tecido grosso e listrado, e afofada nas partes mais salientes do corpo com palha, fazendo de quem a vestia um verdadeiro 'colchão' ambulante."
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="147dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
